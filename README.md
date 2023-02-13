@@ -8,7 +8,7 @@
 ### <div align="center">Full-stack developer 👨‍💻| competitive programmer | data science enthusiast🚀</div>  
   
 
-- 🔭 Developed problem solving skills with competative programming  
+- 🔭 Developed problem solving skills with competitive programming  
   
 
 - ❓ Ask anything related to MERN stack and related technologies  

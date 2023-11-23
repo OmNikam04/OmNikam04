@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 </div>  
   
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omnikam04" alt="omnikam04" /></a> </p>
 ### <div align="center">Full-stack developer 👨‍💻| competitive programmer | data science enthusiast🚀</div>  
   
 

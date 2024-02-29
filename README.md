@@ -116,7 +116,7 @@
 </p>
 <p align="center">
  <a href="https://git.io/streak-stats">
- <img src="https://streak-stats.demolab.com?user=biswal21&theme=tokyonight" alt="ghstats"/>
+ <img src="https://streak-stats.demolab.com?user=OmNikam04&theme=tokyonight" alt="ghstats"/>
  </a>
 </p>
 

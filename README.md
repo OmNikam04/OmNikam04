@@ -97,20 +97,8 @@
 
 <br/>  
   
-
-<br/>  
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=OmNikam04&&style=flat-square" align="left" />
-</div>  
-  
-
-<br/>  
-
-
 <br />
 
-### Stats
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=OmNikam04&color=339989&style=for-the-badge&label=Profile%20Views" alt="omnikam"/>
 </p>
@@ -122,5 +110,5 @@
 
 <p>
 <img align="left" src="https://github.com/OmNikam04/OmNikam04/blob/main/assets/gopher.gif?raw=true" alt="gopher" width="200" height="100"/>
-<img align="right" src="https://github.com/OmNikam04/OmNikam04/blob/main/assets/rusty.png?raw=true" alt="rusty" width="140"/>
+<!-- <img align="right" src="https://github.com/OmNikam04/OmNikam04/blob/main/assets/rusty.png?raw=true" alt="rusty" width="140"/> -->
 </p>
